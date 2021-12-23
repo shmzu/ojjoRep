@@ -641,7 +641,7 @@ footer {
   position: absolute;
   top: 4px;
   left: 0;
-  background-image: url("../../images/icons/subscribe-icon.svg");
+  background-image: url("../images/icons/subscribe-icon.svg");
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center;
